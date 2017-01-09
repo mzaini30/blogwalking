@@ -89,4 +89,16 @@ judul: "Situs Ali",
 link: "http://situsali.com"
 }
 ,
+{
+gambar: "https://s29.postimg.org/axayu4whz/IMG_20170109_130313.jpg",
+judul: "Rezha Julio",
+link: "http://rezhajulio.id"
+}
+,
+{
+gambar: "https://s29.postimg.org/gpe8yzcsn/IMG_20170109_130607.jpg",
+judul: "Muflih Ramadhan",
+link: "http://muflihramadhan.com"
+}
+,
 ]
