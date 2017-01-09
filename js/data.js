@@ -124,4 +124,22 @@ gambar: "https://s28.postimg.org/asmezfsdp/IMG_20170109_203326.jpg",
 judul: "Cut Dek Ayi",
 link: "http://cutdekayi.com"
 }
+,
+{
+gambar: "https://s24.postimg.org/ajgiqzkbp/IMG_20170109_205707.jpg",
+judul: "Tukang Jalan Jajan",
+link: "http://tukangjalanjajan.com"
+}
+,
+{
+gambar: "https://s29.postimg.org/d9mmwdjaf/15275461_1188856387834501_3235262451620511744_n.jpg",
+judul: "Zharnd",
+link: "http://zharnd.net"
+}
+,
+{
+gambar: "https://s23.postimg.org/6xv8nqb0r/tet.png",
+judul: "Lendy Agasshi",
+link: "http://lendyagasshi.com"
+}
 ]
