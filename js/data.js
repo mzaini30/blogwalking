@@ -65,4 +65,22 @@ judul: "Mengatur Hidup",
 link: "http://mengaturhidup.blogspot.com"
 }
 ,
+{
+gambar: "https://s24.postimg.org/5cdjegbk5/IMG_20170109_103826.jpg",
+judul: "Kaskus",
+link: "http://kaskus.co.id"
+}
+,
+{
+gambar: "https://s23.postimg.org/xiesidr63/IMG_20170109_104430.jpg",
+judul: "Ince Furqan",
+link: "http://incefurqan.net"
+}
+,
+{
+gambar: "https://s27.postimg.org/fug1n68er/IMG_20170109_104825.jpg",
+judul: "Sinau Dev",
+link: "http://sinaudev.org"
+}
+,
 ]
