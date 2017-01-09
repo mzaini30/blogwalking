@@ -47,4 +47,22 @@ judul: "IDN Times",
 link: "http://idntimes.com"
 }
 ,
+{
+gambar: "https://s27.postimg.org/8m9s96uxf/IMG_20170109_083217.jpg",
+judul: "Luckty",
+link: "http://luckty.wordpress.com"
+}
+,
+{
+gambar: "https://s30.postimg.org/i0eudycyp/IMG_20170109_083521.jpg",
+judul: "K4linux",
+link: "http://k4linux.com"
+}
+,
+{
+gambar: "https://s29.postimg.org/z5cblovsn/IMG_20170109_083752.jpg",
+judul: "Mengatur Hidup",
+link: "http://mengaturhidup.blogspot.com"
+}
+,
 ]
