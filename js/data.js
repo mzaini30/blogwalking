@@ -83,4 +83,10 @@ judul: "Sinau Dev",
 link: "http://sinaudev.org"
 }
 ,
+{
+gambar: "https://s30.postimg.org/boo9wovjl/IMG_20170109_125556.jpg",
+judul: "Situs Ali",
+link: "http://situsali.com"
+}
+,
 ]
