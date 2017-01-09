@@ -35,4 +35,16 @@ judul: "Cerpenmu",
 link: "http://cerpenmu.com"
 }
 ,
+{
+gambar: "https://s29.postimg.org/ki6jglp1j/IMG_20170109_082319.jpg",
+judul: "Himapsi Unmul",
+link: "http://himapsiunmul.blogspot.com"
+}
+,
+{
+gambar: "https://s27.postimg.org/yalqg4rjn/IMG_20170109_082630.jpg",
+judul: "IDN Times",
+link: "http://idntimes.com"
+}
+,
 ]
