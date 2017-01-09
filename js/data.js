@@ -101,4 +101,27 @@ judul: "Muflih Ramadhan",
 link: "http://muflihramadhan.com"
 }
 ,
+{
+gambar: "https://s27.postimg.org/7nxby6gyb/IMG_20170109_202115.jpg",
+judul: "Robby Bie",
+link: "http://robbybie.com"
+}
+,
+{
+gambar: "https://s30.postimg.org/8kjkztvtt/IMG_20170109_202432.jpg",
+judul: "Kang Rudi",
+link: "http://kangrudi.com"
+}
+,
+{
+gambar: "https://s29.postimg.org/uaqt1ba0n/IMG_20170109_202735.jpg",
+judul: "Dunia Biza",
+link: "http://duniabiza.com"
+}
+,
+{
+gambar: "https://s28.postimg.org/asmezfsdp/IMG_20170109_203326.jpg",
+judul: "Cut Dek Ayi",
+link: "http://cutdekayi.com"
+}
 ]
