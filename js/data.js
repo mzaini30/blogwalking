@@ -142,4 +142,28 @@ gambar: "https://s23.postimg.org/6xv8nqb0r/tet.png",
 judul: "Lendy Agasshi",
 link: "http://lendyagasshi.com"
 }
+,
+{
+gambar: "https://s27.postimg.org/cn6227y9f/IMG_20170110_082425.jpg",
+judul: "Andhika MPPP",
+link: "http://andhikamppp.com"
+}
+,
+{
+gambar: "https://s23.postimg.org/5hrmm026j/IMG_20170110_082717.jpg",
+judul: "Dian Ravi",
+link: "http://dianravi.com"
+}
+,
+{
+gambar: "https://s29.postimg.org/76n2tcefr/1891122_723870347643874_779030638_n.jpg",
+judul: "Bintang Pamungkas",
+link: "http://bintangpamungkas.blogspot.com"
+}
+,
+{
+gambar: "https://s27.postimg.org/u0iids99f/gav_Yeai_N.jpg",
+judul: "Noni Rosliyani",
+link: "http://nonirosliyani.com"
+}
 ]
