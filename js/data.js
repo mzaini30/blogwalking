@@ -61,8 +61,8 @@ link: "http://k4linux.com"
 ,
 {
 gambar: "https://s29.postimg.org/z5cblovsn/IMG_20170109_083752.jpg",
-judul: "Mengatur Hidup",
-link: "http://mengaturhidup.blogspot.com"
+judul: "Blog Muhammad Zaini",
+link: "http://muhammadzaini.com/blog"
 }
 ,
 {
