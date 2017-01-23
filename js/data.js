@@ -166,4 +166,10 @@ gambar: "https://s27.postimg.org/u0iids99f/gav_Yeai_N.jpg",
 judul: "Noni Rosliyani",
 link: "http://nonirosliyani.com"
 }
+,
+{
+gambar: "https://s25.postimg.org/i68exjhdr/XMj_0_TWu.jpg",
+judul: "N Setyo",
+link: "http://nsetyo.com"
+}
 ]
