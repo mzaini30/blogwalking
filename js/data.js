@@ -102,24 +102,6 @@ link: "http://muflihramadhan.com"
 }
 ,
 {
-gambar: "https://s25.postimg.org/unfj42thb/528.jpg",
-judul: "Mulazamah",
-link: "http://www.mulazamah.com/?m=1"
-}
-,
-{
-gambar: "https://s25.postimg.org/pq1yiyri7/archlinux.jpg",
-judul: "Ali Software",
-link: "https://medium.com/alisoftware"
-}
-,
-{
-gambar: "https://s25.postimg.org/luykge8cf/14547563_178515555943559_2144050087934820352_n_j.jpg",
-judul: "Mx Wan",
-link: "https://medium.com/@mxwan"
-}
-,
-{
 gambar: "https://s27.postimg.org/7nxby6gyb/IMG_20170109_202115.jpg",
 judul: "Robby Bie",
 link: "http://robbybie.com"
