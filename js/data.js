@@ -6,6 +6,24 @@ link: "http://kaorinusantara.or.id"
 }
 ,
 {
+gambar: "https://s25.postimg.org/ph8z6s43j/IMG_20170127_195538.jpg",
+judul: "Mulazamah",
+link: "http://www.mulazamah.com/?m=1"
+}
+,
+{
+gambar: "https://s25.postimg.org/97it3vtfj/IMG_20170127_195611.jpg",
+judul: "Ali Software",
+link: "https://medium.com/alisoftware"
+}
+,
+{
+gambar: "https://s25.postimg.org/8jejyok3j/IMG_20170127_195555.jpg",
+judul: "Mx Wan",
+link: "https://medium.com/@mxwan"
+}
+,
+{
 gambar: "https://s30.postimg.org/kelylqn01/IMG_20170108_225909.jpg",
 judul: "Japanese Station",
 link: "http://japanesestation.com"
