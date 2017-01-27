@@ -12,6 +12,42 @@ link: "http://www.mulazamah.com/?m=1"
 }
 ,
 {
+gambar: "https://s25.postimg.org/7ieb9k33z/IMG_20170127_202715.jpg",
+judul: "Nurul Fitri",
+link: "http://www.nurulfitri.com/"
+}
+,
+{
+gambar: "https://s25.postimg.org/gep3dhtq7/IMG_20170127_203130.jpg",
+judul: "Oky Maulana",
+link: "http://www.okymaulana.com/"
+}
+,
+{
+gambar: "https://s25.postimg.org/9pijxh8e7/IMG_20170127_204613.jpg",
+judul: "Sandi Brand",
+link: "http://sandibrand.id/"
+}
+,
+{
+gambar: "https://s25.postimg.org/5uf5uwp8f/14733383_314793405570771_2413637780581122048_n.jpg",
+judul: "Just for My Lucky",
+link: "http://justformylucky.blogspot.com/"
+}
+,
+{
+gambar: "https://s25.postimg.org/5ixpi58sf/IMG_20170127_205807.jpg",
+judul: "Hamtiar",
+link: "http://hamtiar.com/"
+}
+,
+{
+gambar: "https://s25.postimg.org/prl33v83j/IMG_20170127_210107.jpg",
+judul: "Keluarga Hamsa",
+link: "http://keluargahamsa.com/"
+}
+,
+{
 gambar: "https://s25.postimg.org/97it3vtfj/IMG_20170127_195611.jpg",
 judul: "Ali Software",
 link: "https://medium.com/alisoftware"
