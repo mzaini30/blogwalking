@@ -182,7 +182,7 @@ link: "http://cutdekayi.com"
 {
 gambar: "https://s24.postimg.org/ajgiqzkbp/IMG_20170109_205707.jpg",
 judul: "Tukang Jalan Jajan",
-link: "http://tukangjalanjajan.com"
+link: "http://www.tukangjalanjajan.com"
 }
 ,
 {
