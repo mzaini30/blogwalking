@@ -12,6 +12,30 @@ link: "http://www.mulazamah.com/?m=1"
 }
 ,
 {
+gambar: "https://s25.postimg.org/6j2apzlj3/IMG_20170129_104843.jpg",
+judul: "Rido Arbain",
+link: "http://www.ridoarbain.com/?m=1"
+}
+,
+{
+gambar: "https://s25.postimg.org/hwou16w1r/IMG_20170129_110445.jpg",
+judul: "Jung Jawa",
+link: "http://www.jungjawa.com/?m=1"
+}
+,
+{
+gambar: "https://s25.postimg.org/4tt7hx5tr/IMG_20170129_111341.jpg",
+judul: "Jurnal Web",
+link: "http://www.jurnalweb.com"
+}
+,
+{
+gambar: "https://s25.postimg.org/jeaacr0sf/IMG_20170129_112644.jpg",
+judul: "Maxmanroe",
+link: "https://www.maxmanroe.com"
+}
+,
+{
 gambar: "https://s25.postimg.org/xbsgi1yv3/c40b3c235c40e538db937843d46b81f7.png",
 judul: "Kang Amir",
 link: "https://id.kb.kangamir.my.id"
