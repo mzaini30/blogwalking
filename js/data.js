@@ -12,6 +12,30 @@ link: "http://www.mulazamah.com/?m=1"
 }
 ,
 {
+gambar: "https://s25.postimg.org/xbsgi1yv3/c40b3c235c40e538db937843d46b81f7.png",
+judul: "Kang Amir",
+link: "https://id.kb.kangamir.my.id"
+}
+,
+{
+gambar: "https://s25.postimg.org/d5oyj637j/IMG_20170129_091418.jpg",
+judul: "Kafe Kopi",
+link: "http://kafekopi.blogspot.com"
+}
+,
+{
+gambar: "https://s25.postimg.org/ux0kxmim7/2016_12_03_08_50_21_350x350.jpg",
+judul: "Mansur Jihad",
+link: "http://mansurjihad.com"
+}
+,
+{
+gambar: "https://s25.postimg.org/w0kp9l39b/IMG_20170129_093431.jpg",
+judul: "N Firmansyah",
+link: "http://www.nfirmansyah.com"
+}
+,
+{
 gambar: "https://s25.postimg.org/7ieb9k33z/IMG_20170127_202715.jpg",
 judul: "Nurul Fitri",
 link: "http://www.nurulfitri.com/"
