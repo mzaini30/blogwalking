@@ -156,12 +156,6 @@ link: "http://luckty.wordpress.com"
 }
 ,
 {
-gambar: "https://s30.postimg.org/i0eudycyp/IMG_20170109_083521.jpg",
-judul: "K4linux",
-link: "http://k4linux.com"
-}
-,
-{
 gambar: "https://s29.postimg.org/z5cblovsn/IMG_20170109_083752.jpg",
 judul: "Blog Muhammad Zaini",
 link: "http://muhammadzaini.com/blog"
