@@ -12,6 +12,36 @@ link: "http://www.mulazamah.com/?m=1"
 }
 ,
 {
+gambar: "http://muhammadzaini.com/gambar/blogwalking/mebel.jpg",
+judul: "Meubel Mart",
+link: "http://blog.meubelmart.com/"
+}
+,
+{
+gambar: "http://muhammadzaini.com/gambar/blogwalking/alidabdul.jpg",
+judul: "Alid Abdul",
+link: "http://www.alidabdul.com/"
+}
+,
+{
+gambar: "http://muhammadzaini.com/gambar/blogwalking/idatahmidah.jpg",
+judul: "Ida Tahmidah",
+link: "http://www.idatahmidah.com/"
+}
+,
+{
+gambar: "http://muhammadzaini.com/gambar/blogwalking/ndansono.jpg",
+judul: "Ndansono",
+link: "http://ndansono.com/"
+}
+,
+{
+gambar: "http://muhammadzaini.com/gambar/blogwalking/rindhuhati.jpg",
+judul: "Rindhu Hati",
+link: "http://rindhuhati.blogspot.co.id/"
+}
+,
+{
 gambar: "https://s25.postimg.org/6j2apzlj3/IMG_20170129_104843.jpg",
 judul: "Rido Arbain",
 link: "http://www.ridoarbain.com/?m=1"
