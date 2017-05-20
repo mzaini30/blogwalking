@@ -1,7 +1,7 @@
-$(function(){
-	$masonry = $(".masonry").imagesLoaded(function() {
-		$masonry.masonry({
-			itemSelector: ".masonry-item"
-		})
-	})
+$(function() {
+    $masonry = $(".masonry").imagesLoaded(function() {
+        $masonry.masonry({
+            itemSelector: ".masonry-item"
+        })
+    })
 })
